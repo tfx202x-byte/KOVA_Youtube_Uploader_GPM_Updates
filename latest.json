@@ -1,6 +1,6 @@
-{
-  "version": "1.0.2",
-  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.2/KOVA_Youtube_Uploader_GPM_v1.0.2.zip",
-  "sha256": "f7a570175487e96d535ec1b4ee4201128be645d04814d6c36ace949a08d34dbb",
-  "notes": "Sua updater de tranh WinError 32 khi helper dang bi khoa; helper moi chay tu goi update/_internal, cho app thoat han va retry copy file bi khoa."
+﻿{
+  "version": "1.0.3",
+  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.3/KOVA_Youtube_Uploader_GPM_v1.0.3.zip",
+  "sha256": "d920ecd54dc9f7cfe8bbeec5a61c69915982c36b5400dd6d59a01c592ee6b8d1",
+  "notes": "Hotfix Windows package: sua restart sau update va dong bo Tcl/Tk runtime de het loi run_gpm_windows.bat / init.tcl."
 }
