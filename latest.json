@@ -1,6 +1,6 @@
 ﻿{
-  "version": "1.0.3",
-  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.3/KOVA_Youtube_Uploader_GPM_v1.0.3.zip",
-  "sha256": "d920ecd54dc9f7cfe8bbeec5a61c69915982c36b5400dd6d59a01c592ee6b8d1",
-  "notes": "Hotfix Windows package: sua restart sau update va dong bo Tcl/Tk runtime de het loi run_gpm_windows.bat / init.tcl."
+  "version": "1.0.4",
+  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.4/KOVA_Youtube_Uploader_GPM_v1.0.4.zip",
+  "sha256": "4aa13501514739c9d15a073da6f70f09e96df47e7a3433eead22db4c14b7e9ad",
+  "notes": "Them bo cai dat Windows, shortcut Desktop/Start Menu va nen tang cap nhat on dinh tai thu muc cai dat co dinh."
 }
