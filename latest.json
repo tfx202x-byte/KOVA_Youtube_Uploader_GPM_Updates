@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.1/KOVA_Youtube_Uploader_GPM_v1.0.1.zip",
-  "sha256": "67c77c9968560ee9140c702576125114bff4ab5a86efaec8af4ee9d4adc6bb16",
-  "notes": "Them dat lich public bang cot publish_at; nhap trong Excel dang YYYY-MM-DD HH:MM, tool tu dien YouTube theo dang Jul 25, 2026 va 12:00AM."
+  "version": "1.0.2",
+  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.2/KOVA_Youtube_Uploader_GPM_v1.0.2.zip",
+  "sha256": "f7a570175487e96d535ec1b4ee4201128be645d04814d6c36ace949a08d34dbb",
+  "notes": "Sua updater de tranh WinError 32 khi helper dang bi khoa; helper moi chay tu goi update/_internal, cho app thoat han va retry copy file bi khoa."
 }
