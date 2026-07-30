@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.7/KOVA_Youtube_Uploader_GPM_v1.0.7.zip",
-  "sha256": "adf220734015b9473136d1f3d88471c0ac691a12f24edbcac3624afd4dd372d8",
-  "notes": "Sua nhan dien nut Upload tren nhieu may, on dinh Cards va Schedule sau khi upload hoan tat."
+  "version": "1.0.8",
+  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.8/KOVA_Youtube_Uploader_GPM_v1.0.8.zip",
+  "sha256": "5a99567b4929e616bb9c148f2d177293809c4045fdf3613690d5b4d3ff407b29",
+  "notes": "Sua co che cho nut Add End Screen sang va xac nhan editor da mo truoc khi tiep tuc."
 }
