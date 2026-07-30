@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.5/KOVA_Youtube_Uploader_GPM_v1.0.5.zip",
-  "sha256": "56f59e7ffd356c72cbff50e071baca0e1b9d8538e6885bda4ad694a68b465071",
-  "notes": "Them cot thoi gian public tren hang doi va toi uu do rong cac cot GPM profile, ma video, tieu de."
+  "version": "1.0.7",
+  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.7/KOVA_Youtube_Uploader_GPM_v1.0.7.zip",
+  "sha256": "adf220734015b9473136d1f3d88471c0ac691a12f24edbcac3624afd4dd372d8",
+  "notes": "Sua nhan dien nut Upload tren nhieu may, on dinh Cards va Schedule sau khi upload hoan tat."
 }
