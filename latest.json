@@ -1,6 +1,6 @@
 {
-  "version": "1.0.10",
-  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.10/KOVA_Youtube_Uploader_GPM_v1.0.10.zip",
-  "sha256": "84ace573cc7db77a9e268a0529a3bba889462140de6cd79793d8bfde66400941",
-  "notes": "Nhan dien dung hang End screen va nut Add dang enable tren cac bien the giao dien YouTube Studio."
+  "version": "1.0.11",
+  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.11/KOVA_Youtube_Uploader_GPM_v1.0.11.zip",
+  "sha256": "5ea10270fb227bb0f85138b9b8094fe3517e13933f1dba65b66827d0bfceeda8",
+  "notes": "Khoa nut Add theo dung container End screen, khong the chon nham Add cua Subtitles hoac Cards."
 }
