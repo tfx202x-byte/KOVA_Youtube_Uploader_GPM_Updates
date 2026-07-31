@@ -1,6 +1,6 @@
 {
-  "version": "1.0.13",
-  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.13/KOVA_Youtube_Uploader_GPM_v1.0.13.zip",
-  "sha256": "7e92fb74ebefeba9116f9345f5f64b086117bf7a938a04059a613e86fb5b5f55",
-  "notes": "Tu dong chon Publish anyway khi YouTube canh bao content checks chua hoan tat."
+  "version": "1.0.14",
+  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.14/KOVA_Youtube_Uploader_GPM_v1.0.14.zip",
+  "sha256": "e35ef36b526865daea1551d169474b6117f5d202fc5cef5728965cb69c04a203",
+  "notes": "Them delay de popup Checks on dinh truoc khi chon Publish anyway."
 }
