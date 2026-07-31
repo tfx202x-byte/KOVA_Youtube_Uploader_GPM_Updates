@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
-  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.11/KOVA_Youtube_Uploader_GPM_v1.0.11.zip",
-  "sha256": "5ea10270fb227bb0f85138b9b8094fe3517e13933f1dba65b66827d0bfceeda8",
-  "notes": "Khoa nut Add theo dung container End screen, khong the chon nham Add cua Subtitles hoac Cards."
+  "version": "1.0.12",
+  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.12/KOVA_Youtube_Uploader_GPM_v1.0.12.zip",
+  "sha256": "37736fb175fe4a167f5e44b4d90eed722c3be24c36fda10a9663bc6791ca586f",
+  "notes": "Mo Cards ngay khi upload complete va nut Add Cards enable; khong cho video checks complete."
 }
