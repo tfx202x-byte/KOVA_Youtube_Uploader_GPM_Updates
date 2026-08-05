@@ -1,6 +1,6 @@
 {
-  "version": "1.0.15",
-  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.15/KOVA_Youtube_Uploader_GPM_v1.0.15.zip",
-  "sha256": "3e436556f42846d7fff63fa9e1406f3e988cad229cb51ecee015c004d68985cf",
-  "notes": "Bo qua hoan toan buoc cho Publish anyway doi voi video dat lich."
+  "version": "1.0.16",
+  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.16/KOVA_Youtube_Uploader_GPM_v1.0.16.zip",
+  "sha256": "eff1a847426809cb27fd9dfabda237968b31edaa9e0190977e01a072ca34ca07",
+  "notes": "On dinh thao tac mo Playlist Card: click don va cho popup tai day du tren profile GPM/proxy cham."
 }
