@@ -1,6 +1,6 @@
 {
-  "version": "1.0.16",
-  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.16/KOVA_Youtube_Uploader_GPM_v1.0.16.zip",
-  "sha256": "eff1a847426809cb27fd9dfabda237968b31edaa9e0190977e01a072ca34ca07",
-  "notes": "On dinh thao tac mo Playlist Card: click don va cho popup tai day du tren profile GPM/proxy cham."
+  "version": "1.0.17",
+  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.17/KOVA_Youtube_Uploader_GPM_v1.0.17.zip",
+  "sha256": "cd9a099e1d30478060ac2ded65ac983e2035512848f69afd0a45ef9f511be26c",
+  "notes": "On dinh Playlist Card va tu dong Retry khi YouTube Cards editor tai loi tam thoi."
 }
