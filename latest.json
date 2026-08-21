@@ -1,6 +1,6 @@
 {
-  "version": "1.0.17",
-  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.17/KOVA_Youtube_Uploader_GPM_v1.0.17.zip",
-  "sha256": "cd9a099e1d30478060ac2ded65ac983e2035512848f69afd0a45ef9f511be26c",
-  "notes": "On dinh Playlist Card va tu dong Retry khi YouTube Cards editor tai loi tam thoi."
+  "version": "1.0.18",
+  "download_url": "https://github.com/tfx202x-byte/KOVA_Youtube_Uploader_GPM_Updates/releases/download/v1.0.18/KOVA_Youtube_Uploader_GPM_v1.0.18.zip",
+  "sha256": "15a1c310fc21e40871ef49764a3358cc9f0b88d0266b0fc93d9505a720e1e34f",
+  "notes": "Tuỳ chọn danh sách video Card từ file TXT, 5 mốc Card riêng và video cụ thể cho End Screen theo từng dòng Excel."
 }
